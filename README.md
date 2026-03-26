@@ -5,14 +5,14 @@
   <h1>(ICASSP 2026) HINT: Composed Image Retrieval with Dual-Path Compositional Contextualized Network</h1>
   
   <p>
-      <a href="[TODO: 会议官方链接]"><img src="[https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square](https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square)" alt="ICASSP 2026"></a>
-      <a href="[TODO: [https://arxiv.org/abs/xxxx](https://arxiv.org/abs/xxxx)]"><img alt='arXiv' src="[https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg](https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg)"></a>
+      <a href="https://2026.ieeeicassp.org/"><img src="[https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square](https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square)" alt="ICASSP 2026"></a>
+      <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="[https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg](https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg)"></a>
       <a href="[TODO: 论文正式PDF链接]"><img alt='Paper' src="[https://img.shields.io/badge/Paper-ICASSP-green.svg](https://img.shields.io/badge/Paper-ICASSP-green.svg)"></a>
-    <a href="[TODO: [https://your-github-username.github.io/HINT.github.io/](https://your-github-username.github.io/HINT.github.io/)]"><img alt='page' src="[https://img.shields.io/badge/Website-orange](https://img.shields.io/badge/Website-orange)"></a>
-    <a href="[TODO: 作者主页链接]"><img src="[https://img.shields.io/badge/Author](https://img.shields.io/badge/Author) Page-blue.svg" alt="Author Page"></a>
+    <a href="https://zh-mingyu.github.id/HINT.github.io"><img alt='page' src="[https://img.shields.io/badge/Website-orange](https://img.shields.io/badge/Website-orange)"></a>
+    <a href="https://zh-mingyu.github.id"><img src="[https://img.shields.io/badge/Author](https://img.shields.io/badge/Author) Page-blue.svg" alt="Author Page"></a>
     <a href="[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)"><img alt="PyTorch" src="[https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white)"></a>
     <img src="[https://img.shields.io/badge/python-](https://img.shields.io/badge/python-)≥3.8-blue?style=flat-square" alt="Python">
-    <a href="[TODO: 仓库链接]"><img alt='stars' src="https://img.shields.io/github/stars/[TODO: 你的GitHub用户名]/HINT?style=social"></a>
+    <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/zh-mingyu/HINT?style=social"></a>
   </p>
 
   <p>
