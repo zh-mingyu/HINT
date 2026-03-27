@@ -1,6 +1,6 @@
 <a id="top"></a>
 <div align="center">
-  <img src="[TODO: ./assets/logo.png]" width="500"> 
+  <img src="./assets/logo.png" width="500"> 
   
   <h1>(ICASSP 2026) HINT: Composed Image Retrieval with Dual-Path Compositional Contextualized Network</h1>
   
