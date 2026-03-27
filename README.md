@@ -120,11 +120,14 @@ If you find our work or this code useful in your research, please consider leavi
 <div align="center">
   <br><br>
 
-  <a href="zh-mingyu.github.io/HINT">
+  <a href="https://github.com/zh-mingyu.github.io/HINT">
     <img src="https://img.shields.io/badge/⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
   </a>
-  <a href="zh-mingyu.github.io/HINT/issues">
+  <a href="https://github.com/zh-mingyu.github.io/HINT/issues">
     <img src="https://img.shields.io/badge/🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
+  </a>
+  <a href="https://github.com/zh-mingyu/HINT/pulls">
+    <img src="https://img.shields.io/badge/🧐_Pull_Requests-000000?style=for-the-badge&logo=github&logoColor=4ECDC4" alt="Pull Request">
   </a>
 
   <br><br>
