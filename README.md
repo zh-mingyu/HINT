@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    <b>Accepted by ICASSP 2026:</b> A novel dual-path compositional contextualized network (HINT) to tackle the CIR task by performing context-aware encoding and amplifying the similarity differences between matching and non-matching samples.
+    <b>Accepted by ICASSP 2026:</b> A novel contextualized network tackling the neglect of contextual information in Composed Image Retrieval (CIR) by amplifying similarity differences between matching and non-matching samples.
   </p>
 </div>
 
