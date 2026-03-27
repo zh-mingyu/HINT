@@ -28,7 +28,7 @@
 [⬆ Back to top](#top)
 
 ## 📢 News
-* **[2026-03-26]** 🚀 Initial setup for the HINT repository. Code will be released soon!
+* **[2026-03-26]** 🚀 Initial setup for the HINT repository. Source code is scheduled for release in April 2026.
 * **[TODO: 日期]** 🔥 Our paper *"HINT: COMPOSED IMAGE RETRIEVAL WITH DUAL-PATH COMPOSITIONAL CONTEXTUALIZED NETWORK"* has been accepted by **ICASSP 2026**!
 
 [⬆ Back to top](#top)
