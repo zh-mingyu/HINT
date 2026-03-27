@@ -45,7 +45,7 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="[TODO: assets/HINT-framework.png]" alt="HINT architecture" width="1000">
+  <img src="./assets/HINT-framework.png" alt="HINT architecture" width="1000">
   <figcaption><strong>Figure 1.</strong> HINT framework consists of three modules: (a) Dual Context Extraction, (b) Quantification of Contextual Relevance, (c) Dual-Path Consistency Constraints. </figcaption>
 </p>
 
