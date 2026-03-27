@@ -121,14 +121,14 @@ If you find our work or this code useful in your research, please consider leavi
   <br><br>
 
   <a href="zh-mingyu.github.io/HINT">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
+    <img src="https://img.shields.io/badge/⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
   </a>
   <a href="zh-mingyu.github.io/HINT/issues">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
+    <img src="https://img.shields.io/badge/🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
   </a>
 
   <br><br>
 <a href="zh-mingyu.github.io/HINT">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HINT!;Looking+forward+to+your+attention](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HINT!;Looking+forward+to+your+attention)!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HINT!;Looking+forward+to+your+attention" alt="Typing SVG">
   </a>
 </div>
