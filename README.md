@@ -55,19 +55,12 @@
 
 ### CIR Task Performance
 
-#### FashionIQ:
+#### Experimental Results
 
-<caption><strong>Table 1.</strong> Performance comparison on FashionIQ dataset. HINT achieves a notable relative increase of approximately 9.74% in the average R@10.</caption>
-
-<p align="center">
-  <img src="[TODO: ./assets/results-fiq.png]" alt="FashionIQ Results">
-</p>
-
-#### CIRR:
-<caption><strong>Table 2.</strong> Performance comparison on the CIRR test set. HINT achieves a 1.74% improvement in R@1 on CIRR dataset.</caption>
+<caption><strong>Table 1.</strong> Performance comparison on FashionIQ and CIRR datasets. HINT achieves a notable relative increase of approximately 9.74% in average R@10 on FashionIQ, and a 1.74% improvement in R@1 on the CIRR test set.</caption>
 
 <p align="center">
-  <img src="[TODO: ./assets/results-cirr.png]" alt="CIRR Results">
+  <img src="./assets/results.png" alt="Experimental Results on FashionIQ and CIRR">
 </p>
 
 [⬆ Back to top](#top)
