@@ -120,7 +120,7 @@
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="/figs/logos/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="/assets/logos/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>HABIT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://lee-zixu.github.io/HABIT.github.io/" target="_blank">Web</a> | 
