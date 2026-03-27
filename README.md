@@ -73,7 +73,7 @@
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="[TODO: /assets/logos/retrack-logo.png]" alt="ReTrack" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="./assets/logos/retrack-logo.png" alt="ReTrack" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ReTrack (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="[https://lee-zixu.github.io/ReTrack.github.io/](https://lee-zixu.github.io/ReTrack.github.io/)" target="_blank">Web</a> | 
@@ -82,7 +82,7 @@
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="[TODO: /assets/logos/intent-logo.png]" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="./assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>INTENT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="[https://zivchen-ty.github.io/INTENT.github.io/](https://zivchen-ty.github.io/INTENT.github.io/)" target="_blank">Web</a> | 
@@ -91,7 +91,7 @@
       </span>
     </td>  
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
-      <img src="[TODO: /assets/logos/encoder-logo.png]" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <img src="./assets/logos/encoder-logo.png" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ENCODER (AAAI'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="[https://sdu-l.github.io/ENCODER.github.io/](https://sdu-l.github.io/ENCODER.github.io/)" target="_blank">Web</a> | 
