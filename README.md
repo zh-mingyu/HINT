@@ -38,7 +38,7 @@
   - 🧠 **Dual Context Extraction (DCE)**: Extracts both intra-modal context and cross-modal context, enhancing joint semantic representation by integrating multimodal contextual information.
   - 📏 **Quantification of Contextual Relevance (QCR)**: Evaluates the relevance between cross-modal contextual information and the target image semantics, enabling the quantification of implicit dependencies.
   - 🛡️ **Dual-Path Consistency Constraints (DPCC)**: Optimizes the training process by constraining the representation consistency between multimodal fusion features and the target, ensuring the stable enhancement of similarity for matching instances while lowering the similarity for non-matching instances.
-  - 🏆 **State-of-the-Art Performance**: Achieves optimal performance on all metrics across two CIR benchmark datasets, FashionIQ and CIRR, demonstrating strong cross-domain generalization ability.
+  - 🏆 **Outstanding Performance**: Achieves competitive results on major metrics across two CIR benchmark datasets, FashionIQ and CIRR, demonstrating strong cross-domain generalization ability.
 
 [⬆ Back to top](#top)
 
