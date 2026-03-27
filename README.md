@@ -67,119 +67,6 @@
 
 ---
 
-## Table of Contents
-
-- [Introduction](#-introduction)
-- [News](#-news)
-- [Key Features](#-key-features)
-- [Architecture](#️-architecture)
-- [Experiment Results](#️-experiment-results)
-- [Install](#-install)
-- [Data Preparation](#-data-preparation)
-- [Quick Start](#-quick-start)
-  - [Training](#1-training)
-  - [Testing](#2-testing)
-- [Acknowledgement](#-acknowledgement)
-- [Contact](#️-contact)
-- [Citation](#️-citation)
-
----
-
-## 📦 Install
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/[TODO: 你的GitHub用户名]/HINT.git
-cd HINT
-```
-
-**2. Setup Python Environment**
-
-The code is evaluated on **Python 3.8** and **CUDA 12.1** (matching our base framework requirements). We recommend using Anaconda:
-
-```bash
-conda create -n hint python=3.8
-conda activate hint
-
-# Install PyTorch
-pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
-
-# Install core dependencies (HINT relies on BLIP-2 architectures)
-pip install open-clip-torch==2.24.0 scikit-learn==1.3.2 transformers==4.25.0 salesforce-lavis==1.0.2 timm==0.9.16
-```
-
-[⬆ Back to top](#top)
-
------
-
-## 📂 Data Preparation
-
-We evaluated our framework on two standard datasets: [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq) and [CIRR](https://github.com/Cuberick-Orion/CIRR). Please download the datasets first.
-
-*(Note: Data structure instructions are identical to standard CIR pipelines. Please refer to the official dataset repositories for exact directory formatting).*
-
-[⬆ Back to top](#top)
-
------
-
-## 🚀 Quick Start
-
-### 1. Training
-
-Our model is trained using the AdamW optimizer. The hyper-parameter $\lambda$ for the loss function is set to 0.2.
-
-**Training on FashionIQ:**
-
-```bash
-python train.py \
-    --dataset fashioniq \
-    --fashioniq_path "[TODO: /path/to/FashionIQ/]" \
-    --model_dir "./checkpoints/fashioniq_hint" \
-    --batch_size [TODO: 填写Batch Size] \
-    --num_epochs [TODO: 填写Epoch数量] \
-    --lr 2e-5
-```
-
-**Training on CIRR:**
-
-```bash
-python train.py \
-    --dataset cirr \
-    --cirr_path "[TODO: /path/to/CIRR/]" \
-    --model_dir "./checkpoints/cirr_hint" \
-    --batch_size [TODO: 填写Batch Size] \
-    --num_epochs [TODO: 填写Epoch数量] \
-    --lr 2e-5
-```
-
-> **💡 Tips:**
-> - Our model extracts features using the pre-trained BLIP-2. We perform training on a single NVIDIA V100 GPU with 32GB of memory.
-
-### 2. Testing
-
-To generate the prediction files on the CIRR dataset for submission to the CIRR Evaluation Server, run the testing script:
-
-```bash
-python src/cirr_test_submission.py checkpoints/cirr_hint/
-```
-
-[⬆ Back to top](#top)
-
------
-
-## 🤝 Acknowledgement
-
-The implementation of this project utilizes the pre-trained vision-language features from BLIP-2 and references the [LAVIS](https://github.com/salesforce/LAVIS) framework. We express our sincere gratitude to these open-source contributions!
-
-[⬆ Back to top](#top)
-
-## ✉️ Contact
-
-For any questions, issues, or feedback, please open an [issue](https://github.com/[TODO: 你的GitHub用户名]/HINT/issues) on GitHub or reach out to us at `[TODO: 你的邮箱地址]`.
-
-[⬆ Back to top](#top)
-
 ## 🔗 Related Projects
 
 *Ecosystem & Other Works from our Team*
@@ -233,15 +120,15 @@ If you find our work or this code useful in your research, please consider leavi
 <div align="center">
   <br><br>
 
-  <a href="[https://github.com/](https://github.com/)[TODO: 你的GitHub用户名]/HINT">
+  <a href="zh-mingyu.github.io/HINT">
     <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
   </a>
-  <a href="[https://github.com/](https://github.com/)[TODO: 你的GitHub用户名]/HINT/issues">
+  <a href="zh-mingyu.github.io/HINT/issues">
     <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
   </a>
 
   <br><br>
-<a href="[https://github.com/](https://github.com/)[TODO: 你的GitHub用户名]/HINT">
+<a href="zh-mingyu.github.io/HINT">
     <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HINT!;Looking+forward+to+your+attention](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HINT!;Looking+forward+to+your+attention)!" alt="Typing SVG">
   </a>
 </div>
